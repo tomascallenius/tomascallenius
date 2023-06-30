@@ -19,7 +19,7 @@
 <br>
 
 🌐 Socials:
-[Facebook](https://facebook.com/tomas callenius) [Instagram](https://instagram.com/tomascallenius) [LinkedIn](https://linkedin.com/in/tomascallenius)
+[Facebook](https://facebook.com/tomascallenius) [Instagram](https://instagram.com/tomascallenius) [LinkedIn](https://linkedin.com/in/tomascallenius)
 
 💻 Tech Stack:
 CSS3 JavaScript HTML5 Redux React SASS Webpack Less NPM Express.js React Native React Router NodeJS Postgres SQLite
