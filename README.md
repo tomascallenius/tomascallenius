@@ -18,19 +18,15 @@
 
 <br>
 
-### 🚀 My Tech Stack:
+🌐 Socials:
+[Facebook](https://facebook.com/tomas callenius) [Instagram](https://instagram.com/tomascallenius) [LinkedIn](https://linkedin.com/in/tomascallenius)
 
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-</p>
+💻 Tech Stack:
+CSS3 JavaScript HTML5 Redux React SASS Webpack Less NPM Express.js React Native React Router NodeJS Postgres SQLite
 
-<br>
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tomas callenius&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
 
-### Lets connect through:
+![](https://github-readme-streak-stats.herokuapp.com/?user=tomas callenius&theme=synthwave&hide_border=false)
 
-<a href=""><img src="https://icons8.com/icon/43625/instagram"/></a>
-<a href=""><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/tomas-callenius-9a9149219/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomas callenius&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
