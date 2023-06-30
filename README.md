@@ -1,11 +1,13 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tomas 👩‍💻</h1>
 <br>
 
-I am a Full Stack Web Developer.
+<h2>I am a Full Stack Web Developer.</h2>
 
 <br>
 
 <img align="right" src="./img/Tomas%20Callenius.png" width="1500" height="350" />
+
+### A bit of me:
 
 - ✍ I studied at Soy Henry
 - 🌱 I’m currently learning TypeScript
