@@ -6,9 +6,9 @@
 <br>
 
 <img align="right" src="./img/Tomas%20Callenius.png" width="1500" height="300" />
-
 <br>
-
+<br>
+<br>
 ### A bit of me:
 
 - ✍ I studied at Soy Henry
