@@ -5,7 +5,7 @@ I am a Full Stack Web Developer.
 
 <br>
 
-<img align="right" src="./img/Tomas%20Callenius.png" width="1500" height="500" />
+<img align="right" src="./img/Tomas%20Callenius.png" width="1500" height="350" />
 
 - ✍ I studied at Soy Henry
 - 🌱 I’m currently learning TypeScript
