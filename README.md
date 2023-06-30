@@ -5,7 +5,7 @@
 
 <br>
 
-<img align="right" src="./img/Tomas%20Callenius.png" width="1500" height="350" />
+<img align="right" src="./img/Tomas%20Callenius.png" width="1500" height="300" />
 
 <br>
 
